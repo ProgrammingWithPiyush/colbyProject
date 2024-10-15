@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+}
+
+header{
+    background-color: brown;
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+section{
+    background-color: brown;
+    color: white;
+    padding: 20px 30px;
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
